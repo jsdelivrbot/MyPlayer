@@ -11,7 +11,10 @@ Install
 Хочу создать свой список радиостанций
 > Список можно создать и загрузить в плеере
 
+> Файл должен быть в формате `.json`
+
 > Шаблон есть в файле `station.json`
 
 > Если создавать на GitHub'e то надо указать `raw` ссылку
-> Пример https://raw.githubusercontent.com/GalactisIO/MyPlayer/master/station.json
+
+> Пример ссылки https://raw.githubusercontent.com/GalactisIO/MyPlayer/master/station.json
