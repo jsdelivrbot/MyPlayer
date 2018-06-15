@@ -12,12 +12,12 @@ Install
 > Список можно создать и загрузить в плеере
 
 > Шаблон `
-[
-   "http://air.radiorecord.ru:8102/dc_320",
-   "http://air.radiorecord.ru:8102/brks_320",
-   "http://air.radiorecord.ru:8102/dub_320",
-   "http://air.radiorecord.ru:8102/fut_320",
-   "http://air.radiorecord.ru:8102/mix_320",
-   "http://air.radiorecord.ru:8102/ps_320"
-]
-`
+>[
+>   "http://air.radiorecord.ru:8102/dc_320",
+>   "http://air.radiorecord.ru:8102/brks_320",
+>   "http://air.radiorecord.ru:8102/dub_320",
+>   "http://air.radiorecord.ru:8102/fut_320",
+>   "http://air.radiorecord.ru:8102/mix_320",
+>   "http://air.radiorecord.ru:8102/ps_320"
+>]
+>`
