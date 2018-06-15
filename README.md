@@ -11,13 +11,7 @@ Install
 Хочу создать свой список радиостанций
 > Список можно создать и загрузить в плеере
 
-> Шаблон `
->[
->   "http://air.radiorecord.ru:8102/dc_320",
->   "http://air.radiorecord.ru:8102/brks_320",
->   "http://air.radiorecord.ru:8102/dub_320",
->   "http://air.radiorecord.ru:8102/fut_320",
->   "http://air.radiorecord.ru:8102/mix_320",
->   "http://air.radiorecord.ru:8102/ps_320"
->]
->`
+> Шаблон есть в файле `station.json`
+
+> Если создавать на GitHub'e то надо указать `raw` ссылку
+> Пример https://raw.githubusercontent.com/GalactisIO/MyPlayer/master/station.json
