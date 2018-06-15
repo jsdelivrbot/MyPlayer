@@ -1,6 +1,6 @@
 # MyPlayer
 
->
+
 <player down left>
     <link rel="stylesheet" href="player.css">
     <bar></bar>
