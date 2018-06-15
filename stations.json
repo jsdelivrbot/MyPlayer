@@ -1,7 +1,8 @@
 {
-   "1": "5",
-   "2": "4",
-   "3": "3",
-   "4": "2",
-   "5": "1"
+  "station": "http://air.radiorecord.ru:8102/fut_320",
+  "station": "http://air.radiorecord.ru:8102/brks_320",
+  "station": "http://air.radiorecord.ru:8102/dub_320",
+  "station": "http://air.radiorecord.ru:8102/fut_320",
+  "station": "http://air.radiorecord.ru:8102/mix_320",
+  "station": "http://air.radiorecord.ru:8102/ps_320"
 }
