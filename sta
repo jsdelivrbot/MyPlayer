@@ -1,0 +1,8 @@
+{
+   "Dance":"http://air.radiorecord.ru:8102/dc_320",
+   "Brks":"http://air.radiorecord.ru:8102/brks_320",
+   "Dubstep":"http://air.radiorecord.ru:8102/dub_320",
+   "Future":"http://air.radiorecord.ru:8102/fut_320",
+   "Mix":"http://air.radiorecord.ru:8102/mix_320",
+   "Pirate":"http://air.radiorecord.ru:8102/ps_320"
+}
